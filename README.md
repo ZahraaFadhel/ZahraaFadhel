@@ -9,8 +9,8 @@ I'm Zahraa, a 21 years old in a journey to be a full stack developer.
 ## Skills
 - 👨‍💻 JavaScript, Go, java, Python, PHP
 - 👁️ html, CSS, bootstrap, tailwindcss
-- React, Next.js, Node.js
-- 💽 MySQL, SQL
+- React, Next.js, Node.js, Angular, Django
+- 💽 SQL, MySQL, phpMyAdmin, NoSQL, 
 - +a lot more to learn :D
 
 ## Contact
