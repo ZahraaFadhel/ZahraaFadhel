@@ -1,8 +1,8 @@
 ## Hey! 👋
-I'm Zahraa, a 21 years old in a journey to be a full stack developer.
+I'm Zahraa, a full stack developer.
 
-- 👨‍💻 Software Engineering student at UOB
-- 👨‍💻 Student in Reboot Coding Insititute
+- 👨‍💻 Software Engineering graduate from UOB
+- 👨‍💻 Graduate from Reboot Coding Insititute
 - Self Learner
 - +a lot more :)
 
